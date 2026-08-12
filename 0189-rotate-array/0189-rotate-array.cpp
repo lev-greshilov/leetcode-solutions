@@ -1,12 +1,15 @@
 #include <vector>
-#include <algorithm> // ÐÐ»Ñ std::rotate Ð¸ std::reverse
-#include <iostream>  // ÐÐ»Ñ ÑÑÐºÐ¾ÑÐµÐ½Ð¸Ñ Ð²Ð²Ð¾Ð´Ð°-Ð²ÑÐ²Ð¾Ð´Ð° LeetCode
+#include <algorithm> 
+#include <iostream>
 
 
 class Solution {
 
 public:
     void rotate(vector<int>& nums, int k) {
+        std::ios_base::sync_with_stdio(false);
+        std::cin.tie(NULL);
+
         if (nums.empty()) {
             return;
         }
