@@ -1,28 +1,28 @@
-#include <iostream>
 #include <vector>
+#include <algorithm> // ÐÐ»Ñ std::rotate Ð¸ std::reverse
+#include <iostream>  // ÐÐ»Ñ ÑÑÐºÐ¾ÑÐµÐ½Ð¸Ñ Ð²Ð²Ð¾Ð´Ð°-Ð²ÑÐ²Ð¾Ð´Ð° LeetCode
+
 
 class Solution {
-private:
-    void reverse_inplace(std::vector<int>& nums, int start, int end) {
-        while (start < end) {
-            std::swap(nums[start], nums[end]);
-            start++;
-            end--;
-        }
-    }   
+
 public:
     void rotate(vector<int>& nums, int k) {
-        ///Honestly, I would like to use a ring buffer here instead of raw vector
+        if (nums.empty()) {
+            return;
+        }
 
-        if (nums.empty()) return;
+        // Normalize indexes
         int n = nums.size();
         k = k % n;
-        if (k == 0) return;
 
-        // Triple reversal algorithm. Region A = [0:n-k) region B = [n-k:n)
-        reverse_inplace(nums, 0, n - 1); // 1. Reverse region A and region B together
-        reverse_inplace(nums, 0, k - 1); // 2. Reverse region A separately 
-        reverse_inplace(nums, k, n - 1); // 3. Reverse region B separately 
+        // Idle if k = 0
+        if (k == 0) {
+            return;
+        }
+
+        // Find border between region A and region B for the Triple reversal algorithm.
+        auto new_start_iterator = nums.begin() + (n - k);
+        std::rotate(nums.begin(), new_start_iterator, nums.end());
     }
 };
 
