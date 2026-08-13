@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -29,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
