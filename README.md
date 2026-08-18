@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Linked List
@@ -76,11 +78,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthâMorrisâPratt Algorithm
+## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerâMoore String-Search Algorithm
+## BoyerÃ¢ÂÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
