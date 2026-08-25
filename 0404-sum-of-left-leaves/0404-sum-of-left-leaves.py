@@ -17,8 +17,7 @@ class Solution:
             summ = fun(node.left, isLeft=True) + fun(node.right)
 
             # Left Leaf
-            isLeaf = not node.left and not node.right
-            if isLeaf and isLeft:
+            if not node.left and not node.right and isLeft:
                 summ += node.val
 
             # Pass the sum upper                
