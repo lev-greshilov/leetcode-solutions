@@ -15,6 +15,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0975-range-sum-of-bst](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0975-range-sum-of-bst](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -35,6 +37,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0975-range-sum-of-bst](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -56,4 +59,5 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0975-range-sum-of-bst](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
