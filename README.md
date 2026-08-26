@@ -17,6 +17,7 @@
 | [0563-binary-tree-tilt](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0563-binary-tree-tilt](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0563-binary-tree-tilt](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
