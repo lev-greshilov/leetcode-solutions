@@ -74,4 +74,12 @@
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
