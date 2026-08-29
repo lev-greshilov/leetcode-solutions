@@ -81,6 +81,7 @@
 | [0118-pascals-triangle](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [4271-find-the-degree-of-each-vertex](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4271-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,4 +92,12 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0125-valid-palindrome) |
+## Graph Theory
+|  |
+| ------- |
+| [4271-find-the-degree-of-each-vertex](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4271-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [4271-find-the-degree-of-each-vertex](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4271-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
