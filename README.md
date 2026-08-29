@@ -58,6 +58,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
@@ -86,4 +87,8 @@
 | [0118-pascals-triangle](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
