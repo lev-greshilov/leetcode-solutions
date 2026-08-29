@@ -100,4 +100,12 @@
 |  |
 | ------- |
 | [4271-find-the-degree-of-each-vertex](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4271-find-the-degree-of-each-vertex) |
+## Hash Table
+|  |
+| ------- |
+| [4321-digit-frequency-score](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4321-digit-frequency-score) |
+## Math
+|  |
+| ------- |
+| [4321-digit-frequency-score](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4321-digit-frequency-score) |
 <!---LeetCode Topics End-->
