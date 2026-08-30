@@ -108,5 +108,6 @@
 |  |
 | ------- |
 | [2812-find-the-maximum-achievable-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
+| [4168-mirror-distance-of-an-integer](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4168-mirror-distance-of-an-integer) |
 | [4321-digit-frequency-score](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4321-digit-frequency-score) |
 <!---LeetCode Topics End-->
