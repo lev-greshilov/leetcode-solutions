@@ -60,6 +60,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [3379-score-of-a-string](https://github.com/lev-greshilov/leetcode-solutions/tree/master/3379-score-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
