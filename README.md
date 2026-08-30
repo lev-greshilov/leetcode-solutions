@@ -81,6 +81,7 @@
 | [0118-pascals-triangle](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [4008-restore-finishing-order](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4271-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
@@ -103,6 +104,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [4008-restore-finishing-order](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 | [4321-digit-frequency-score](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4321-digit-frequency-score) |
 ## Math
 |  |
