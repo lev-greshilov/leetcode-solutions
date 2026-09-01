@@ -83,6 +83,7 @@
 | [0119-pascals-triangle-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2048-build-array-from-permutation](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lev-greshilov/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [4008-restore-finishing-order](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4271-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
@@ -113,6 +114,7 @@
 | ------- |
 | [2812-find-the-maximum-achievable-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/lev-greshilov/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lev-greshilov/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [4168-mirror-distance-of-an-integer](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4168-mirror-distance-of-an-integer) |
 | [4321-digit-frequency-score](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4321-digit-frequency-score) |
 ## Simulation
