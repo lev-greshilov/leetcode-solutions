@@ -88,6 +88,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lev-greshilov/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [4008-restore-finishing-order](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4271-find-the-degree-of-each-vertex) |
+| [4299-concatenate-array-with-reverse](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4299-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [4299-concatenate-array-with-reverse](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4299-concatenate-array-with-reverse) |
 ## Linked List
 |  |
 | ------- |
