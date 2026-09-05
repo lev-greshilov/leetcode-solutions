@@ -1,11 +1,12 @@
 class Solution {
 public:
-    vector<int> findDegrees(vector<vector<int>>& matrix) {            
+    vector<int> findDegrees(vector<vector<int>>& matrix) {
         int n = matrix.size();
-        std::vector<int> result(n); 
-
+        vector<int> result(n);
         for (int i = 0; i < n; i++) {
-            result[i] = std::accumulate(matrix[i].begin(), matrix[i].end(), 0);
+            for (int j = 0; j < n; j++) {
+                result[i] += matrix[i][j];
+            }
         }
         return result;
     }
