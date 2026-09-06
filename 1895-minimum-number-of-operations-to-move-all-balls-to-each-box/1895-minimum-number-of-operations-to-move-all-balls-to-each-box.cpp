@@ -3,13 +3,29 @@ public:
     vector<int> minOperations(string boxes) {
         int n = boxes.size();
         vector<int> answer(n, 0);
+
+        int balls = 0;
+        int op = 0;
         for (int i = 0; i < n; i++) {
-            if (boxes[i] == '1') {
-                for (int j = 0; j < n; j++) {
-                    answer[j] += abs(i - j);
-                }
-            }
+            answer[i] += op;
+
+            if (boxes[i] == '1')
+                balls++;
+
+            op += balls;
         }
+
+        balls = 0;
+        op = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            answer[i] += op;
+
+            if (boxes[i] == '1')
+                balls++;
+
+            op += balls;
+        }
+
         return answer;
     }
 };
