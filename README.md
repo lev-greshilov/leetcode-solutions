@@ -60,6 +60,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3379-score-of-a-string](https://github.com/lev-greshilov/leetcode-solutions/tree/master/3379-score-of-a-string) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## Backtracking
@@ -138,4 +139,8 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
