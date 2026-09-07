@@ -94,6 +94,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lev-greshilov/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [4008-restore-finishing-order](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4271-find-the-degree-of-each-vertex) |
+| [4280-count-digit-appearances](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4280-count-digit-appearances) |
 | [4299-concatenate-array-with-reverse](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4299-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
@@ -131,6 +132,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/lev-greshilov/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lev-greshilov/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [4168-mirror-distance-of-an-integer](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4168-mirror-distance-of-an-integer) |
+| [4280-count-digit-appearances](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4280-count-digit-appearances) |
 | [4321-digit-frequency-score](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4321-digit-frequency-score) |
 ## Simulation
 |  |
