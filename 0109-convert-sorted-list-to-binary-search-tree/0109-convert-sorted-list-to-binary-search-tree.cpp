@@ -22,28 +22,29 @@
 class Solution {
 public:
     TreeNode* sortedListToBST(ListNode* head) {
-        if (head == nullptr)
+        if (head == nullptr) {
             return nullptr;
-        
+        }
+        if(!head->next) {
+            return new TreeNode(head->val);
+        }
+
         // int n = head.size();
         ListNode* slow = head;
         ListNode* fast = head;
-        ListNode* prev = nullptr;
+        ListNode* slow_prev = nullptr;
 
-        while (fast != nullptr and fast->next != nullptr) {
-            prev = slow; 
+        while (fast != nullptr && fast->next != nullptr) {
+            slow_prev = slow; 
             slow = slow->next;
             fast = fast->next->next;
         }
 
         TreeNode* root = new TreeNode(slow->val);
+        slow_prev->next = nullptr;
 
-        if (prev != nullptr) {
-            prev->next = nullptr;
-            root->left = sortedListToBST(head);
-        }
+        root->left = sortedListToBST(head);
         root->right = sortedListToBST(slow->next);
-
 
         return root;
     }
