@@ -4,13 +4,10 @@ public:
         long long result = 0; 
         long long divisor = 1000;
 
+        if (n < 1000) return 0;
         while (n >= divisor) {
             
             result += (n - divisor + 1);
-            
-            // Check the overflow 
-            if (divisor > n / 1000)
-                break;
             divisor *= 1000;
         }
         return result;
