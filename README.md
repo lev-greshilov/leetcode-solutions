@@ -135,6 +135,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lev-greshilov/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [4168-mirror-distance-of-an-integer](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4168-mirror-distance-of-an-integer) |
 | [4245-count-commas-in-range](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4245-count-commas-in-range) |
+| [4248-count-commas-in-range-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4248-count-commas-in-range-ii) |
 | [4280-count-digit-appearances](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4280-count-digit-appearances) |
 | [4321-digit-frequency-score](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4321-digit-frequency-score) |
 ## Simulation
