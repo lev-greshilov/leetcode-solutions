@@ -85,6 +85,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -120,6 +121,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0001-two-sum) |
 | [4008-restore-finishing-order](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4087-maximum-substrings-with-distinct-start) |
 | [4321-digit-frequency-score](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4321-digit-frequency-score) |
