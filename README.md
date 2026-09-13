@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -107,6 +108,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
@@ -187,4 +189,8 @@
 | [0175-combine-two-tables](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
