@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -109,6 +110,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -164,6 +166,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Brainteaser
 |  |
