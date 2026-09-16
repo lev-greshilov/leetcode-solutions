@@ -134,6 +134,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [1013-fibonacci-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [2481-strictly-palindromic-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2556-convert-the-temperature) |
