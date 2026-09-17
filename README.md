@@ -157,6 +157,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -184,6 +185,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [1013-fibonacci-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
