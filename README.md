@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [1013-fibonacci-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [2481-strictly-palindromic-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2556-convert-the-temperature) |
@@ -205,4 +206,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
