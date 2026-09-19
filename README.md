@@ -93,6 +93,7 @@
 | [0118-pascals-triangle](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0136-single-number) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
@@ -213,6 +214,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0136-single-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
