@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0119-pascals-triangle-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lev-greshilov/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -137,6 +139,7 @@
 | [0007-reverse-integer](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [1013-fibonacci-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2481-strictly-palindromic-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
@@ -210,4 +213,13 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
