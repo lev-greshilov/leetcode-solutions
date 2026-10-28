@@ -191,6 +191,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
