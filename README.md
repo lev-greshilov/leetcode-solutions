@@ -97,6 +97,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
@@ -139,6 +140,7 @@
 | [0141-linked-list-cycle](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [4008-restore-finishing-order](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4087-maximum-substrings-with-distinct-start) |
 | [4321-digit-frequency-score](https://github.com/lev-greshilov/leetcode-solutions/tree/master/4321-digit-frequency-score) |
@@ -221,6 +223,7 @@
 | ------- |
 | [0015-3sum](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -257,8 +260,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0169-majority-element) |
-## BoyerâMoore Majority Vote Algorithm
+| [0229-majority-element-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0169-majority-element) |
+## BoyerâMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
