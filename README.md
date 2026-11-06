@@ -64,6 +64,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -150,6 +151,7 @@
 | [0007-reverse-integer](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0168-excel-sheet-column-title](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [1013-fibonacci-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lev-greshilov/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2481-strictly-palindromic-number](https://github.com/lev-greshilov/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
@@ -261,11 +263,11 @@
 | ------- |
 | [0169-majority-element](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0229-majority-element-ii) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0169-majority-element) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/lev-greshilov/leetcode-solutions/tree/master/0229-majority-element-ii) |
