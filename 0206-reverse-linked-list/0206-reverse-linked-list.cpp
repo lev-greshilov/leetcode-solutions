@@ -16,16 +16,15 @@ public:
         }
         ListNode* prev = nullptr;
         ListNode* curr = head;
-        ListNode* next = head->next;
 
-        while (next != nullptr) {
+        while (curr != nullptr) {
+            ListNode* next = curr->next;
             curr->next = prev;
-            // shift
+
             prev = curr;
             curr = next;
-            next = next->next;
         }
-        curr->next = prev;
-        return curr;
+
+        return prev;
     }
 };
