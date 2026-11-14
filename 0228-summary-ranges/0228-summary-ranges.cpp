@@ -26,10 +26,8 @@ public:
             if (nums[i] != nums[i-1] + 1) {
                 result.push_back(getStringRange(a, b)); 
                 a = nums[i];
-                b = nums[i];
-            } else {
-                b = nums[i];
             }
+            b = nums[i];
         }
         result.push_back(getStringRange(a, b));
         return result;
