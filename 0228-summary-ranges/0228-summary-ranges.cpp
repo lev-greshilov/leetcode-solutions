@@ -17,11 +17,6 @@ public:
         int a = nums[0];
         int b = nums[0];
 
-        if (nums.size() == 1) {
-            result.push_back(getStringRange(a, b));
-            return result;
-        }
-
         for (int i = 1; i < nums.size(); i++) {
             if (nums[i] != nums[i-1] + 1) {
                 result.push_back(getStringRange(a, b)); 
